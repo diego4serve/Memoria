@@ -1,13 +1,3 @@
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
-
-/*
- * MemoriaVentana.java
- *
- * Created on 5/11/2011, 08:09:32 AM
- */
 package memoria;
 
 import javax.swing.JButton;

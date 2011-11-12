@@ -1,6 +1,5 @@
 // cambios
 // nuevo cambio
-// cambio en rama1
 
 /*
  * To change this template, choose Tools | Templates
